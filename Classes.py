@@ -8,3 +8,4 @@ class Rectangle:
         return 2 * (self.width * self.height)
 r1 = Rectangle(10,20)
 print(r1.area())
+print(r1.perimeter())
